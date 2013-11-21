@@ -4,7 +4,7 @@
 */
 ?>
 
-   <div class="widgetWrapper1 -rust"> <!-- Widget Area 1 Fullwidth Wrapper -->
+   <div class="widgetWrapper1 -main-bg-color"> <!-- Widget Area 1 Fullwidth Wrapper -->
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
@@ -30,7 +30,7 @@
    </div> <!-- end Widget Area 1 Wrapper -->
    
 
-      <div class="widgetWrapper1 -beige"> <!-- Widget Area 1 Fullwidth Wrapper -->
+      <div class="widgetWrapper1 -secondary-bg-color"> <!-- Widget Area 1 Fullwidth Wrapper -->
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
