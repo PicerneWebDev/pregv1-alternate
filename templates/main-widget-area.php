@@ -53,7 +53,7 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-villas-icon.png">
+            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-web-logo.png">
           </div>
           <div class="span9">
           
