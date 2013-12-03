@@ -8,13 +8,13 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-floor-plan-icon.png">
+            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-floor-plan-icon.png">
           </div>
           <div class="span9">
           
-            <h3>Choose a Floor Plan. Apply Online<br /><small>It's that easy.</small></h3>
+            <h3 class="text-white">Senior Apartment Living At Its Finest<br /><small>Relaxation is only a click away</small></h3>
             
-            <a href="<?php echo get_bloginfo('url');?>/floor-plans" class="btn btn-orange widget-btn">Apply Today</a>
+            <a href="<?php echo get_bloginfo('url');?>/floor-plans" class="btn btn-grey widget-btn">Apply Today</a>
             
           </div>
              
@@ -34,11 +34,11 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-online-icon.png">
+            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-online-icon.png">
           </div>
           <div class="span9">
           
-            <h3>One Place For All Your Resident Needs.<br /><small class="text-brown">No Hours. Just Convenience</small></h3>
+            <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">We make living here convenient</small></h3>
             
             <a href="https://clearwoodapartments.securecafe.com/residentservices/the-clearwood-villas/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
             
@@ -53,7 +53,7 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-villas-icon.png">
+            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-web-logo.png">
           </div>
           <div class="span9">
           

@@ -20,17 +20,19 @@
 
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-community-amenities-filter.jpg" alt="Clearwood Villas Community Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-amenities.jpg" alt="Laurel Point Senior Aparment Homes - Community Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
             <li>Beautiful Landscaping</li>
-            <li>Business Center</li>
-            <li>Children's Play Area</li>
-            <li>Clubhouse with Computers and Free Wi-Fi access</li>
+            <li>Clubhouse</li>
+            <li>Business Center with Computers and Free Wi-Fi access</li>
             <li>Copy &amp; Fax Services</li>
+            <li>Easy Access to Freeways</li>
+            <li>Laundry Facility</li>
+            <li>Picnic Area with Barbecue</li>
             <li>State-Of-The-Art Fitness Center</li>
-            <li>Shimmering Swimming Pool(s)</li>
+            <li>Beautiful and Relaxing Swimming Pool</li>
         </ul>
       </div>
     </div>
@@ -40,19 +42,22 @@
     
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/clearwood-apartment-features-filter.jpg" alt="Clearwood Villas Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-features.jpg" alt="Laurel Point Senior Aparment Homes - Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
-       		 <li>Air Conditioning</li>
+       		 <li>9ft Ceilings</li>
+            <li>Air Conditioning</li>
             <li>All Electric Kitchen</li> 
-            <li>Breakfast Bar</li>            
             <li>Cable Ready</li> 
             <li>Carpeted Floors</li>
             <li>Ceiling Fan(s)</li>
-            <li>Dishwasher</li>
+            <li>Disability Access</li>            
+            <li>Dishwasher</li>  
+            <li>Extra Storage</li>  
             <li>Garbage Disposal</li>
-            <li>Mini Blinds</li>
+            <li>Large Utility Room</li>
+            <li>Multiple Telephone outlets</li>
         </ul>
       </div>
     </div>

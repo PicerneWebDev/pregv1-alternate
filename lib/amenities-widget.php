@@ -28,7 +28,7 @@ class preg_amenities_widget extends WP_Widget {
 				  echo'<li><i class="check-icon"></i>'.$instance['amenityThree'].'</a></li>';
 				  echo'<li><i class="check-icon"></i>'.$instance['amenityFour'].'</a></li>';				  				  				  
 				echo '</ul>';
-				echo ' <a class="btn btn-block btn-dark-orange" href="'.$instance['applyLink'].'">Get Started Today!</a>';
+				echo ' <a class="btn btn-block btn-maroon" href="'.$instance['applyLink'].'">Get Started Today!</a>';
 			   echo '</div>';
 			
         echo $after_widget;

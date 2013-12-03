@@ -21,8 +21,8 @@ module.exports = function(grunt) {
         },
         files: {
           'assets/css/bootstrap.css': [
-           'assets/less/bootstrap.less', 
-			'assets/less/preg.less'
+           'assets/less/bootstrap.less'
+			//'assets/less/preg.less'
           ]
         }
       } 
