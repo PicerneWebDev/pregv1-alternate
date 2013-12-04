@@ -24,7 +24,7 @@
           </a>
           <div class="media-body">
             <h5 class="media-heading">Give us a call</h5>
-            <p>(713) 910-3336</p>
+            <p>(281) 584-0021</p>
           </div>
         </div>     
         <div class="media">
@@ -33,7 +33,7 @@
           </a>
           <div class="media-body">
             <h5 class="media-heading">Email</h5>
-            <p>Send us an email: <a href="mailto:oasisatwekiva@picernefl.com">laurel_p@picernefl.com</a></p>
+            <p>Send us an email: <a href="mailto:laurel_p@picernefl.com">laurel_p@picernefl.com</a></p>
           </div>
         </div>    
         <!-- <div class="media">
