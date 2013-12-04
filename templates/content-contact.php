@@ -20,20 +20,20 @@
      <h2>Connect With us</h2>
         <div class="media">
           <a class="pull-left" href="#">
-            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/phone-icon.png" alt="Call Laurel Point Senior Apartments"/>
+            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/phone-icon.png" alt="Call Parkside Point Apartment Homes"/>
           </a>
           <div class="media-body">
             <h5 class="media-heading">Give us a call</h5>
-            <p>(713) 910-3336</p>
+            <p>(832) 200-9947</p>
           </div>
         </div>     
         <div class="media">
           <a class="pull-left" href="#">
-            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/mail-icon.png" alt="Email Laurel Point Senior Apartments"/>
+            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/mail-icon.png" alt="Email Parkside Point Apartment Homes"/>
           </a>
           <div class="media-body">
             <h5 class="media-heading">Email</h5>
-            <p>Send us an email: <a href="mailto:oasisatwekiva@picernefl.com">laurel_p@picernefl.com</a></p>
+            <p>Send us an email: <a href="mailto:parkside_p@picernefl.com">parkside_p@picernefl.com</a></p>
           </div>
         </div>    
         <!-- <div class="media">

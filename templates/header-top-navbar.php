@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
       </a>
       <a class="brand" href="<?php echo get_bloginfo('url'); ?>" title="<?php echo get_bloginfo('name');?>">
-     	<img src="<?php echo get_bloginfo("url"); ?>/wp-content/themes/pregv1-alternate/assets/img/laurel-web-logo.png">
+     	<img src="<?php echo get_bloginfo("url"); ?>/wp-content/themes/pregv1-alternate/assets/img/parkside-web-logo.png">
       </a>
       <nav class="nav-main nav-collapse collapse pull-right" role="navigation">
         <?php

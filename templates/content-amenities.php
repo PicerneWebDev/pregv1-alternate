@@ -20,19 +20,18 @@
 
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-amenities.jpg" alt="Laurel Point Senior Aparment Homes - Community Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-amenities.jpg" alt="Parkside Point Aparment Homes - Community Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
+            <li>Access to Public Transportation</li>
             <li>Beautiful Landscaping</li>
+            <li>Business Center</li>
+            <li>Children's Play Area</li>
             <li>Clubhouse</li>
-            <li>Business Center with Computers and Free Wi-Fi access</li>
             <li>Copy &amp; Fax Services</li>
             <li>Easy Access to Freeways</li>
-            <li>Laundry Facility</li>
-            <li>Picnic Area with Barbecue</li>
-            <li>State-Of-The-Art Fitness Center</li>
-            <li>Beautiful and Relaxing Swimming Pool</li>
+            <li>Easy Access to Shopping</li>
         </ul>
       </div>
     </div>
@@ -42,22 +41,20 @@
     
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-features.jpg" alt="Laurel Point Senior Aparment Homes - Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-features.jpg" alt="Parkside Point Aparment Homes - Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
-       		 <li>9ft Ceilings</li>
-            <li>Air Conditioning</li>
+       		 <li>Air Conditioning</li>
             <li>All Electric Kitchen</li> 
-            <li>Cable Ready</li> 
+            <li>Breakfast Bar</li> 
+            <li>Cable Ready</li>
             <li>Carpeted Floors</li>
-            <li>Ceiling Fan(s)</li>
-            <li>Disability Access</li>            
+            <li>Ceiling Fan(s)</li>            
+            <li>Central Air/Heating</li>  
             <li>Dishwasher</li>  
-            <li>Extra Storage</li>  
             <li>Garbage Disposal</li>
-            <li>Large Utility Room</li>
-            <li>Multiple Telephone outlets</li>
+            <li>Mini Blinds</li>
         </ul>
       </div>
     </div>

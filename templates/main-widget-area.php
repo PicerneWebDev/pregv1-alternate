@@ -53,7 +53,7 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-web-logo.png">
+            <img src="<?php echo get_bloginfo('url');?>/assets/parkside-logo.png">
           </div>
           <div class="span9">
           
@@ -62,7 +62,7 @@
           <?php endwhile; ?>          
 
             
-            <div class="widget-button"><a href="<?php echo get_bloginfo('url');?>/amenities" class="btn btn-rust widget-btn">View Amenities</a> </div>             
+            <div class="widget-button"><a href="<?php echo get_bloginfo('url');?>/amenities" class="btn btn-maroon widget-btn">View Amenities</a> </div>             
             
           </div>
           

@@ -50,7 +50,7 @@ add_action('wp_enqueue_scripts', 'roots_scripts', 100);
 
 // http://wordpress.stackexchange.com/a/12450
 function roots_jquery_local_fallback($src, $handle) {
-  static $add_jquery_fallback = false;
+  static $add_jquery_fallback = true;
 
   if ($add_jquery_fallback) {
     echo '<script>window.jQuery || document.write(\'<script src="' . get_template_directory_uri() . '/assets/js/vendor/jquery-1.9.1.min.js"><\/script>\')</script>' . "\n";
@@ -83,7 +83,7 @@ if (GOOGLE_ANALYTICS_ID) {
  */
 function adobe_typekit_output(){ ?>
   <!-- Adobe Typekit Embed Code -->
-  <script type="text/javascript" src="//use.typekit.net/uln5vub.js"></script>
+  <script type="text/javascript" src="//use.typekit.net/tpg1bse.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <?php } 
 
