@@ -40,7 +40,7 @@
           
             <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">We make living here convenient</small></h3>
             
-            <a href="https://clearwoodapartments.securecafe.com/residentservices/the-clearwood-villas/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
+            <a href="https://laurelpointseniorapartmenthomes.securecafe.com/residentservices/laurel-point-senior-apartments/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
             
           </div>
              
