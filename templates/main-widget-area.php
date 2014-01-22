@@ -8,13 +8,13 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-floor-plan-icon.png">
+            <img class="img-circle" src="<?php echo get_bloginfo('url');?>/assets/timber-point-pool.png">
           </div>
           <div class="span9">
           
-            <h3 class="text-white">Senior Apartment Living At Its Finest<br /><small>Relaxation is only a click away</small></h3>
-            
-            <a href="<?php echo get_bloginfo('url');?>/floor-plans" class="btn btn-grey widget-btn">Apply Today</a>
+            <h3>Choose the floor plan for you</small></h3>
+            <p>With your comfort in mind, we have created an online application which allows you to pre-apply on your time. Our one, two, and three bedroom apartments are sure to be a great fit for you and your family.</p>
+            <a href="<?php echo get_bloginfo('url');?>/floor-plans" class="btn btn-white widget-btn">Apply Today</a>
             
           </div>
              
@@ -34,13 +34,13 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-online-icon.png">
+            <img class="img-circle" src="<?php echo get_bloginfo('url');?>/assets/timber-point-online-pay.png">
           </div>
           <div class="span9">
           
-            <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">We make living here convenient</small></h3>
+            <h3 class="text-white">Online Work Orders and Rent Payments<br /><small class="text-white">Easily pay your rent online and request maintenance here</small></h3>
             
-            <a href="https://clearwoodapartments.securecafe.com/residentservices/the-clearwood-villas/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
+            <a href="#" class="btn btn-grey widget-btn" target="_blank">Resident Sign-in</a>
             
           </div>
              
@@ -53,7 +53,7 @@
      <div class="container"> <!-- wrapping container for Widget Area 1 -->
      	<div class="widget-content row">
           <div class="span3">
-            <img src="<?php echo get_bloginfo('url');?>/assets/laurel-web-logo.png">
+            <img class="img-circle" src="<?php echo get_bloginfo('url');?>/assets/timber-point-front-entrance.png">
           </div>
           <div class="span9">
           
@@ -62,7 +62,7 @@
           <?php endwhile; ?>          
 
             
-            <div class="widget-button"><a href="<?php echo get_bloginfo('url');?>/amenities" class="btn btn-rust widget-btn">View Amenities</a> </div>             
+            <div class="widget-button"><a href="<?php echo get_bloginfo('url');?>/amenities" class="btn btn-blue widget-btn">View Amenities</a> </div>             
             
           </div>
           

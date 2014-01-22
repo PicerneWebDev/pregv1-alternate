@@ -9,6 +9,10 @@
 @import "variables.less"; 
 @import "mixins.less";
  
+ 
+ @main-color: #F9F9F9;
+ @secondary-color: #46ABCE;
+ 
 /************************************************************/
 /************************ Body Overrides ********************/
 /************************************************************/
@@ -45,7 +49,7 @@ h4{
 }
 
 h2, h3, h4, h5, h6{
-  color: #934120;	
+  color: #000;	
 }
 
 .text-brown{
@@ -57,6 +61,10 @@ h2, h3, h4, h5, h6{
 }
 
 
+.text-blue{
+  color: @secondary-color;	
+}
+
 /************************************************************/
 /********************** Custom Buttons***********************/
 /************************************************************/
@@ -64,9 +72,14 @@ h2, h3, h4, h5, h6{
   border-radius: 0px !important;
   box-shadow: none;
   border: none;
-  background: #3274B4;
+  background: #46ABCE;
   text-shadow: none;
   color: white;
+}
+
+.btn-blue:hover{
+  background-color: #3D9EC0;
+  color: #FFF;	
 }
 
 .btn-green {
@@ -82,9 +95,14 @@ h2, h3, h4, h5, h6{
   border-radius: 0px !important;
   box-shadow: none;
   border: none;
-  background: #C5C5C5;
+  background: #f9f9f9;
   text-shadow: none;
-  color: #863C2D;
+  color: #46ABCE;
+}
+
+.btn-grey:hover{
+  background-color: #FFF;
+  color: #46ABCE;	
 }
 
 .btn-orange{
@@ -143,6 +161,20 @@ h2, h3, h4, h5, h6{
   color: #F9F9F9;
 }
 
+.btn-white{
+  background-color: #FFF;
+  background-image: none;
+  border: 0px;
+  border-radius: 0px;
+  color: #000;
+  text-shadow: none;	
+}
+
+.btn-white:hover{
+  background-color: #f9f9f9;
+  color: #46ABCE;	
+}
+
 
 .widget-btn{
   padding: 7px 20px 7px 20px;
@@ -152,7 +184,7 @@ h2, h3, h4, h5, h6{
 /************************* Navbar ***************************/
 /************************************************************/
 .navbar {
-  border-top: 8px solid #863C2D;
+  border-top: 8px solid #F9F9F9;
 }
 
 .nav-main.nav-collapse.collapse.pull-right {
@@ -177,7 +209,7 @@ h2, h3, h4, h5, h6{
 .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
   background-color: rgba(0, 0, 0, 0);
   box-shadow: none;
-  color: #934120;
+  color: #46ABCE;
   text-decoration: none;
 }
 
@@ -194,7 +226,7 @@ h2, h3, h4, h5, h6{
 }
 
 .navbar .btn-navbar .icon-bar {
-  background-color: #934120;  
+  background-color: #46ABCE;  
   height: 6px;
   width: 36px;
 }
@@ -230,7 +262,7 @@ h2, h3, h4, h5, h6{
 }
 
 .page-header h1 {
-  color: #782C0E;
+  color: #46ABCE;
   margin-left: 2%;
 }
 
@@ -341,11 +373,11 @@ div.wpcf7-mail-sent-ok{
 }
 
 .sidebar h3 {
-  background-color: #DBD6D4;
+  background-color: #F9F9F9;
   border-bottom: 0px;
-  border-left: 7px solid #863C2D;
+  border-left: 7px solid #46ABCE;
   border-top: 0px;
-  color: #863C2D;
+  color: #46ABCE;
   font-weight: normal;
   text-align: center;
 }
@@ -357,7 +389,7 @@ div.wpcf7-mail-sent-ok{
 
 .business_hours_collapsible_handler{
   background-image: none;
-  background-color: #863C2D;
+  background-color: #46ABCE;
   border: 0px;
   border-radius: 0px;  
   color: #FFF;
@@ -366,8 +398,8 @@ div.wpcf7-mail-sent-ok{
 }
 
 .business_hours_collapsible_handler:hover {
-  background-color: #a74c28;
-  color: #f9f9f9;
+  background-color: #3D9EC0;
+  color: #FFF;
   text-shadow: none;
 }
 
@@ -421,7 +453,7 @@ div.wpcf7-mail-sent-ok{
 .carousel .prev {right:0;opacity:1;z-index:1;}
 
 .carousel-caption{
-  background: rgba(205,179,151, 0.85);
+  background: rgba(214, 214, 214, 0.85);
   left: 70%;
   right: 0px;
   height: auto;	
@@ -429,13 +461,13 @@ div.wpcf7-mail-sent-ok{
 }
 
 .carousel-control{
-  background-color: #863C2D;
-  border: 3px solid #E2E1DF;
-  color: #E2E1DF;  	
+  background-color: #F9F9F9;
+  border: 3px solid #46ABCE;
+  color: #46ABCE;  	
 }
 
 .carousel-control:hover, .carousel-control:focus {
-  color: #E2E1DF;
+  color: #46ABCE;
 }
 
 .carousel-caption h4{
@@ -445,7 +477,7 @@ div.wpcf7-mail-sent-ok{
 }
 
 .carousel-caption p{
-  color: #863C2D;	
+  color: #000;	
   padding-bottom: 1%;
 }
 /************************************************************/
@@ -453,10 +485,10 @@ div.wpcf7-mail-sent-ok{
 /************************************************************/
 
 .-main-bg-color{
-  background-color: #863C2D;	
+  background-color: #f0f0f0;	
 }
 .-secondary-bg-color {
-  background-color: #e2e1df;
+  background-color: #46ABCE;
 }
 
 .-white{
@@ -482,6 +514,10 @@ div.wpcf7-mail-sent-ok{
   text-transform: uppercase;
 }
 
+.widget-content p {
+  text-align: justify;
+}
+
 .-white .widget-content{
   text-align: left;	
 }
@@ -496,11 +532,11 @@ div.wpcf7-mail-sent-ok{
 }
 
 .-white .widget-content h3{
-  color: #863C2D;	
+
 }
 
 .widget-content small {
-  color: #D5D5D5;
+  color: #4BB1D4;
   font-size: 22px;  
   font-style: italic;
 }
@@ -715,7 +751,7 @@ div.wpcf7-mail-sent-ok{
 /************************************************************/
 .footer{
   background-color: #FFF;
-  border-top: 4px solid #863C2D;
+  border-top: 4px solid #F9F9F9;
   color: #323232;
   font-size: 20px;
   height: auto;  

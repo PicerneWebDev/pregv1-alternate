@@ -20,20 +20,20 @@
      <h2>Connect With us</h2>
         <div class="media">
           <a class="pull-left" href="#">
-            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/phone-icon.png" alt="Call Clearwood Villas Apartment Homes"/>
+            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/phone-icon.png" alt="Call Timber Point Apartment Homes for more information"/>
           </a>
           <div class="media-body">
             <h5 class="media-heading">Give us a call</h5>
-            <p>(713) 910-3336</p>
+            <p>(855) 439-6555</p>
           </div>
         </div>     
         <div class="media">
           <a class="pull-left" href="#">
-            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/mail-icon.png" alt="Email Clearwood Villas Apartment Homes"/>
+            <img class="media-object img-circle" data-src="holder.js/64x64" src="<?php echo get_bloginfo('url');?>/assets/mail-icon.png" alt="Email Timber Point Apartment Homes"/>
           </a>
           <div class="media-body">
             <h5 class="media-heading">Email</h5>
-            <p>Send us an email: <a href="mailto:clearwood_v@picernefl.com">clearwood_v@picernefl.com</a></p>
+            <p>Send us an email: <a href="mailto:timber_p@picernefl.com">timber_p@picernefl.com</a></p>
           </div>
         </div>    
         <!-- <div class="media">
