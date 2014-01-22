@@ -40,7 +40,7 @@
           
             <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">Convenience at your fingertips</small></h3>
             
-            <a href="https://clearwoodapartments.securecafe.com/residentservices/the-clearwood-villas/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
+            <a href="https://parksidepointapartments.securecafe.com/residentservices/parkside-point-apartments/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
             
           </div>
              
