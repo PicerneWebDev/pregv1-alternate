@@ -12,7 +12,7 @@
           </div>
           <div class="span9">
           
-            <h3 class="text-white">Senior Apartment Living At Its Finest<br /><small>Relaxation is only a click away</small></h3>
+            <h3 class="text-white">Apartment Home Living At Its Finest<br /><small>Come Home to Parkside Point Apartments</small></h3>
             
             <a href="<?php echo get_bloginfo('url');?>/floor-plans" class="btn btn-grey widget-btn">Apply Today</a>
             
@@ -38,7 +38,7 @@
           </div>
           <div class="span9">
           
-            <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">We make living here convenient</small></h3>
+            <h3>Online Work Orders and Rent Payments<br /><small class="text-brown">Convenience at your fingertips</small></h3>
             
             <a href="https://clearwoodapartments.securecafe.com/residentservices/the-clearwood-villas/userlogin.aspx" class="btn btn-maroon widget-btn" target="_blank">Resident Sign-in</a>
             

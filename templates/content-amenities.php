@@ -20,7 +20,7 @@
 
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-amenities.jpg" alt="Parkside Point Aparment Homes - Community Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/parkside-point-amenities.jpg" alt="Parkside Point Aparment Homes - Community Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
@@ -41,7 +41,7 @@
     
     <div class="amenities-item span12">
     <div class="span6">
-    <img src="<?php echo get_bloginfo('url');?>/assets/laurel-point-features.jpg" alt="Parkside Point Aparment Homes - Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
+    <img src="<?php echo get_bloginfo('url');?>/assets/parkside-point-apt-amenities.jpg" alt="Parkside Point Aparment Homes - Apartment Amenities" width="300" height="200" class="alignleft size-medium" />
     </div>
     <div class="span6">
        <ul class="amenities-list-items">
