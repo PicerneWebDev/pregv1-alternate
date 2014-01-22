@@ -40,7 +40,7 @@
           
             <h3 class="text-white">Online Work Orders and Rent Payments<br /><small class="text-white">Easily pay your rent online and request maintenance here</small></h3>
             
-            <a href="#" class="btn btn-grey widget-btn" target="_blank">Resident Sign-in</a>
+            <a href="https://timberpointapartments.securecafe.com/residentservices/timber-point-apartments/userlogin.aspx" class="btn btn-grey widget-btn" target="_blank">Resident Sign-in</a>
             
           </div>
              
