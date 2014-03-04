@@ -83,7 +83,7 @@ if (GOOGLE_ANALYTICS_ID) {
  */
 function adobe_typekit_output(){ ?>
   <!-- Adobe Typekit Embed Code -->
-  <script type="text/javascript" src="//use.typekit.net/uln5vub.js"></script>
+  <script type="text/javascript" src="//use.typekit.net/fby0txg.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <?php } 
 
