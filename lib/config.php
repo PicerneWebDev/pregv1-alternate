@@ -24,7 +24,7 @@ function roots_main_class() {
     $class = 'span7';
   } else {
     // Classes on full width pages
-    $class = 'span12';
+    $class = '';
   }
 
   return $class;
