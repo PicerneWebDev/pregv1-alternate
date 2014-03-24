@@ -8,6 +8,12 @@
    			<div class="footer-title"><h4>Pay Us A Visit!</h4></div>
 			   
                <?php $propContactInfo = get_option("prop-contact-info");  //Retrieve the Property Settings   ?>
+               
+               <?php $phoneNum = $propContactInfo['prop-phone'];
+			   		
+					$phoneNumStripped = preg_replace('/\D+/', '', $phoneNum);
+
+			   ?>
 
                <!-- Begin Schema.org for Apartment Complex -->  
                <div itemscope itemtype="http://schema.org/ApartmentComplex">
@@ -22,7 +28,7 @@
                     <span class="apt-postal-code" itemprop="postalCode"><?php echo $propContactInfo['prop-zip']; ?></span><br>
                   </span>
                   <br>
-                  <span class="apt-tel"><strong>Phone:</strong> <span class="value" itemprop="telephone"><a href="tel:4078893710"><?php echo $propContactInfo['prop-phone']; ?></a></span></span><br>
+                  <span class="apt-tel"><strong>Phone:</strong> <span class="value" itemprop="telephone"><a href="tel:<?php echo $phoneNumStripped;?>"><?php echo $propContactInfo['prop-phone']; ?></a></span></span><br>
                   <span class="apt-fax"><strong>Fax: </strong><span class="value" itemprop="faxNumber"><?php echo $propContactInfo['prop-fax']; ?></span></span><br>
                   
                   <span class="apt-google-map-img"></span><span class="apt-google-map"><a href="<?php echo $propContactInfo['prop-google-map-url'];?>" title="Get Directions to <?php echo get_bloginfo('name');?> on Google" target="_blank" itemprop="map">Get Directions</a></span><br>
