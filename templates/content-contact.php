@@ -1,6 +1,10 @@
 <div class="row-fluid page-main-wrap">
 <?php while (have_posts()) : the_post(); ?>
   
+    <?php if ( shortcode_exists( 'display_gmap' ) ) { 
+         echo do_shortcode('[display_gmap]');
+   } ?>   
+  
   <div class="contact-left span6">
   <?php if (has_post_thumbnail()){ //Post Thumbnail check?>
   
@@ -15,7 +19,7 @@
   <?php wp_link_pages(array('before' => '<nav class="pagination">', 'after' => '</nav>')); ?>
   </div> <!-- end span6 -->
   
-  <div class="contact-right span6">
+  <div class="contact-right span5">
    <div class="connect-wrap span9">
      <h2>Connect With us</h2>
         <div class="media">
